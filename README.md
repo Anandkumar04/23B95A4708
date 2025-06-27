@@ -1,9 +1,9 @@
-Mobile View :
-![Screenshot (50)](https://github.com/user-attachments/assets/1e325ee2-b3f3-4a7e-af41-d1b4cc1cc0ef)
+![Screenshot (48)](https://github.com/user-attachments/assets/1bfe4569-d4ad-4f8d-88a1-8c946a13236b)
 
 
-Enter the url 
-![Screenshot (48)](https://github.com/user-attachments/assets/4346fc70-dbf4-4b70-9d55-ccea683511b1)
 
-after url shortner
-![Screenshot (49)](https://github.com/user-attachments/assets/953e92d5-1997-4878-9bbf-6771b1f52217)
+![Screenshot (49)](https://github.com/user-attachments/assets/501903fd-e30e-408f-aabc-ebd8bade2da0)
+
+
+
+![Screenshot (50)](https://github.com/user-attachments/assets/235bfc22-7275-4fcb-918e-4508738bca6a)
